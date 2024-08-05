@@ -7,7 +7,7 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love talking about movies and am an amateur critic in my free time! You can read my reviews on [my Letterboxd page](https://boxd.it/149b1)
 
-# 🔒 Private Repositories:-
+# 🔒 Private Repositories
 <ol>
   <li>Desktop Audio Transcriber App That Makes Use Of OpenAI's Whisper Model</li>
   <li>Snake Game Made In Java With Additions</li>
