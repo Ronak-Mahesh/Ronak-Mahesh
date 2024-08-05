@@ -24,7 +24,7 @@
 ### If you're a prospective employer who wants to view these, please contact me on Linkedin and I will add you as a collaborator to these projects.
 
 # 🧑‍💻 Ongoing Projects
-- AI Chatbot For Movie Reccomendations
+- AI Chatbot For Movie Recommendations
 <!---
 Ronak-Mahesh/Ronak-Mahesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
