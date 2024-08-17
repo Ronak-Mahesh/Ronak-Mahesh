@@ -10,7 +10,6 @@
 # 🔒 Private Repositories
 <ol>
   <li>Desktop Audio Transcriber App That Makes Use Of OpenAI's Whisper Model</li>
-  <li>Snake Game Made In Java With Additions</li>
   <li>Various Machine Learning Projects (Both, Regression & Classification) In Python, Including Cancer Prediction Ones</li>
   <li>MATLAB-based Image Segmentation Network For The Oxford Flower Dataset Using A Modified VGG-19</li>
   <li>MATLAB-based Image Segmentation Network For The Oxford Flower Dataset Using A Model Created & Trained From Scratch</li>
